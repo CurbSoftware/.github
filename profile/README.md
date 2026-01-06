@@ -11,3 +11,12 @@ Our work includes:
 
 We prioritize clear system design, maintainable architecture,
 and solutions grounded in real operational requirements.
+
+## Focus Areas
+
+- Enterprise Risk Management (ERM)
+- Risk-oriented application design
+- Business process modeling
+- WordPress plugin development
+- Browser extension development
+- Automation and integrations
