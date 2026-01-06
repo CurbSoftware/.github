@@ -1,2 +1,13 @@
-# .github
-Building ERM systems, automation tools, and production-grade web software.
+## CurbSoftware
+
+CurbSoftware builds practical, production-grade software focused on
+risk management, automation, and modern web platforms.
+
+Our work includes:
+- Enterprise Risk Management (ERM) systems
+- Business process analysis and applied research
+- WordPress plugins and SaaS-style extensions
+- Browser extensions and web productivity tools
+
+We prioritize clear system design, maintainable architecture,
+and solutions grounded in real operational requirements.
