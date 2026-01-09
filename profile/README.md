@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="logo.png" alt="CurbSoftware Logo" width="160" />
+<p align="left">
+  <img src="logo.png" alt="CurbSoftware Logo" width="100" />
 </p>
 
 ## CurbSoftware
