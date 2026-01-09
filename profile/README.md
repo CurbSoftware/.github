@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile/logo.png" alt="CurbSoftware Logo" width="160" />
+</p>
+
 ## CurbSoftware
 
 CurbSoftware builds practical, production-grade software focused on
