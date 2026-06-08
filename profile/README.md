@@ -4,7 +4,7 @@
 
 ## CurbSoftware
 
-CurbSoftware builds practical, production-grade software focused on
+CurbSoftware Tech Innovations builds practical, production-grade software focused on
 risk management, automation, and modern web platforms.
 
 Our work includes:
